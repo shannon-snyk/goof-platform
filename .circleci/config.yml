@@ -12,6 +12,6 @@ jobs:
       - snyk/scan:
           fail-on-issues: false
           monitor-on-build: true
-          project: '${goof-platform}/${circleci-projec-setup}-app'
+          project: '${goof-platform}/${circleci-project-setup}-app'
           token-variable: SNYK_TOKEN
 workflows: null
