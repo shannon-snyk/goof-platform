@@ -4,7 +4,7 @@ exclude:
  code:
    - Code/routes/*
  global:
-   - SCA/JS/*
+   - SCA/JS/**
 # ignores vulnerabilities until expiry date; change duration by modifying expiry date
 ignore:
   SNYK-JS-EXPRESSFILEUPLOAD-595969:
