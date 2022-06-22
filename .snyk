@@ -2,7 +2,7 @@
 version: v1.25.0
 exclude:
  code:
-   - Code/routes?/*
+   - Code/routes/*
  global:
    - SCA/JS/**
 # ignores vulnerabilities until expiry date; change duration by modifying expiry date
