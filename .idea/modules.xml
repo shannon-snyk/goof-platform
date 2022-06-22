@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/goof-platform.iml" filepath="$PROJECT_DIR$/.idea/goof-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SCA/Java/todolist-mvc.iml" filepath="$PROJECT_DIR$/SCA/Java/todolist-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SCA/Java/todolist-web-struts/todolist-web-struts.iml" filepath="$PROJECT_DIR$/SCA/Java/todolist-web-struts/todolist-web-struts.iml" />
+    </modules>
+  </component>
+</project>
